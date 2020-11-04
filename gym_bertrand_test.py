@@ -12,6 +12,8 @@ from ray.tune.logger import pretty_print
 
 # from ray.rllib.env import MultiAgentEnv
 
+# cd OneDrive/Documents/Research/RLcollusionpricing
+
 # env = gym.make('BertrandCompetitionDiscrete-v0')
 
 config = {
